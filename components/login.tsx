@@ -22,7 +22,7 @@ export default function Login(){
 const styles = StyleSheet.create({
     container:{
         flex: 1,
-        backgroundColor: 'pink',
+        backgroundColor: 'green',
         alignItems: 'center',
         justifyContent: 'center',
         padding: 20,
